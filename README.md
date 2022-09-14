@@ -1,2 +1,2 @@
 # Database-Systems
-This is a folder that contains class materials from CSCI4707 Fall 2021
+This is a folder contains projects I did from CSCI4707 Fall 2021
